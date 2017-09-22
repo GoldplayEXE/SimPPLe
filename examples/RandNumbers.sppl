@@ -1,0 +1,6 @@
+int y
+int x
+chrOut y
+chrOut x
+jmp y
+jmp x
