@@ -1,2 +1,1 @@
-# SimPPLe
-Probabilistic Esoteric Programming Language
+SimPPLe (Simple Probabilistic Programming Language) is a probabilistic programming language. Most programs written in this language, produce different results every time they're executed. You can only assign random values to variables. Even data inputed by the user will only assign a random value. For Documentation see the Esolangs page (http://esolangs.org/wiki/SimPPLe).
